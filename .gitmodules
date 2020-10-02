@@ -1,4 +1,0 @@
-[submodule "slam_validation"]
-	path = slam_validation
-	url = https://gitlab.com/sdbcs-nio3/itl_mipt/slam/slam_validation.git
-	branch = Habitat
