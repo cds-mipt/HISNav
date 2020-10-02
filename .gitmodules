@@ -1,0 +1,3 @@
+[submodule "slam_validation"]
+	path = slam_validation
+	url = https://github.com/cds-mipt/slam_validation.git
