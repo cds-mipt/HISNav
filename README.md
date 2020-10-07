@@ -6,5 +6,4 @@
 We pursue the goal to research the steadiness of the developed framework to the noise. We use three levels of noise in images: without noise, light Gaussian noise , strong Gaussian noise. The examples of images from the dataset are shown here:
 
 ![](imgs/Figure_Dataset_Images.jpg)
-
-<img src="doc/img/embedding.gif" width="100%">
+Examples of images from HISNav Dataset with three levels of noise
