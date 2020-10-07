@@ -20,7 +20,7 @@ All the dataset includes 135962 images and is split ted into three parts: train,
 | Number of unique scenes                    |     49 |     35 |     43 |        |
 | Number of tracks                           |     88 |     35 |     43 |        |
 
-
+<
   **Number of instances per class (40 classes)**
 |                                            | train  | val    | test   | total  |
 |--------------------------------------------|--------|--------|--------|--------|
@@ -64,3 +64,4 @@ All the dataset includes 135962 images and is split ted into three parts: train,
 | clothes                                    |    586 |    561 |    634 |   1781 |
 | objects                                    | 113931 |  45902 |  59614 | 219447 |
 | misc                                       | 223810 |  87047 | 126577 | 437434 |
+>
