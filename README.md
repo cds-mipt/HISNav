@@ -21,7 +21,7 @@ All the dataset includes 135962 images and is split ted into three parts: train,
 | Number of tracks                           |     88 |     35 |     43 |        |
 
 
-        **Number of instances per class (40 classes)**
+  **Number of instances per class (40 classes)**
 |                                            | train  | val    | test   | total  |
 |--------------------------------------------|--------|--------|--------|--------|
 | wall                                       | 420782 | 171545 | 231628 | 823955 |
