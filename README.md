@@ -17,7 +17,7 @@ All the dataset includes 135962 images and is split ted into three parts: train,
 | Number of images                           | 72626  | 27952  | 35384  | 135962 |
 | Number of unique scenes                    |     49 |     35 |     43 |        |
 | Number of tracks                           |     88 |     35 |     43 |        |
-| Number of instances per class (40 classes)                             |
+| Number of instances per class (40 classes)                                     |
 | wall                                       | 420782 | 171545 | 231628 | 823955 |
 | floor                                      | 181355 |  73785 |  94042 | 349182 |
 | chair                                      | 153759 |  54164 |  59711 | 267634 |
