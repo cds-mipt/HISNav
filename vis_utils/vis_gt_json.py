@@ -1,3 +1,6 @@
+# 
+# This implementation is based on https://github.com/WXinlong/SOLO/blob/master/tools/test_ins_vis.py
+#    
 import json
 import numpy as np
 import pycocotools.mask as mask_util
