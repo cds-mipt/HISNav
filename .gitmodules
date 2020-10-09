@@ -4,3 +4,6 @@
 [submodule "SOLO"]
 	path = SOLO
 	url = https://github.com/cds-mipt/SOLO
+[submodule "cdxslam"]
+	path = cdxslam
+	url = https://github.com/cds-mipt/cdxslam.git
