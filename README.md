@@ -66,3 +66,9 @@ All the dataset includes 135962 images and is split ted into three parts: train,
 | objects                                    | 113931 |  45902 |  59614 | 219447 |
 | misc                                       | 223810 |  87047 | 126577 | 437434 |
 -->
+
+# Visualize the results
+
+```shell
+python vis_utils/vis_pred_json.py 
+```
