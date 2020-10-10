@@ -21,6 +21,8 @@ All the dataset includes 135962 images and is split ted into three parts: train,
 | Number of unique scenes                    |     49 |     35 |     43 |        |
 | Number of tracks                           |     88 |     35 |     43 |        |
 
+The dataset is distributed in `hdf5` file format. To extract the data in TUM format for the purpose of evaluation Visual SLAM methods we provide a script `tools/HISNav_to_TUM.ipynb`
+
 <!---
   **Number of instances per class (40 classes)**
 |                                            | train  | val    | test   | total  |
@@ -70,5 +72,5 @@ All the dataset includes 135962 images and is split ted into three parts: train,
 # Visualize the results
 
 ```shell
-python vis_utils/vis_pred_json.py 
+python tools/vis_pred_json.py 
 ```
