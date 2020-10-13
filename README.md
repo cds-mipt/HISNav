@@ -8,7 +8,8 @@
 We pursue the goal to research the steadiness of the developed framework to the noise. We use three levels of noise in images: without noise, light Gaussian noise , strong Gaussian noise. The examples of images from the dataset are shown here:
 
 ![](imgs/Figure_Dataset_Images.jpg)
-*Solov2's predictions*
+
+*Solov2's predictions:*
 <img src="imgs/solov2_test_00_00_thr_0.3.gif" width="100%">
 
 Each RGB image has a resolution 640x320, and the depth map has the same resolution. Each pixel contains a distance value in meters (from 0 to 100m). Ground truth instance labels of 40 classes (wall, floor, chair, door, table, sofa, etc.) correspond to each image. 
