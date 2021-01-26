@@ -7,3 +7,6 @@
 [submodule "cdxslam"]
 	path = cdxslam
 	url = https://github.com/cds-mipt/cdxslam.git
+[submodule "HISnav_RL"]
+	path = HISnav_RL
+	url = https://github.com/alstar8/HISnav_RL.git
