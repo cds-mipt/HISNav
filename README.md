@@ -14,7 +14,7 @@ YOLACT++ | 26ms | 0.2739 | [download](https://drive.google.com/file/d/1DcLyC4Urw
 MASK R-CNN(det2) | 31ms | 0.3483 | [download](https://drive.google.com/file/d/1NKdUJ4PnQjbDgcVa8DCsaRLLg-mzHQ51/view?usp=sharing)
 MASK R-CNN(mmdet) | 34ms | 0.3593 | [download](https://drive.google.com/file/d/1wiglYingWK64UGEx7e4ntXvEnA5SEggq/view?usp=sharing)
 
-More information in the [article](https://ieeexplore.ieee.org/document/9241850)
+**More information in the [article](https://ieeexplore.ieee.org/document/9241850).**
 
 ## Data
 
