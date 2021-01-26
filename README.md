@@ -1,6 +1,10 @@
 # HISNav
 `HISNav` - Habitat-based Instance segmentation, Slam and Navigation Dataset
 
+> [Real-Time Object Navigation With Deep Neural Networks and Hierarchical Reinforcement Learning](https://ieeexplore.ieee.org/document/9241850)
+> Staroverov, A., Yudin, D. A., Belkin, I., Adeshkin, V., Solomentsev, Y. K., & Panov, A. I. 
+> IEEE Access, 8, 195608-195621.
+
 **The dataset is available [here](https://drive.google.com/drive/folders/1p2Up5gtpREWQmbvPlzcPtPf_wYUiFjpY?usp=sharing).**
 
 ## Models
@@ -13,8 +17,6 @@ SOLOv2 | 18ms | 0.3778 | [download](https://drive.google.com/file/d/16UaTUDfOUNu
 YOLACT++ | 26ms | 0.2739 | [download](https://drive.google.com/file/d/1DcLyC4UrwVuHrdRnoTj84nenw69Qvv1y/view?usp=sharing)
 MASK R-CNN(det2) | 31ms | 0.3483 | [download](https://drive.google.com/file/d/1NKdUJ4PnQjbDgcVa8DCsaRLLg-mzHQ51/view?usp=sharing)
 MASK R-CNN(mmdet) | 34ms | 0.3593 | [download](https://drive.google.com/file/d/1wiglYingWK64UGEx7e4ntXvEnA5SEggq/view?usp=sharing)
-
-**More information in the ["Real-Time Object Navigation With Deep Neural Networks and Hierarchical Reinforcement Learning"](https://ieeexplore.ieee.org/document/9241850).**
 
 ## Data
 
