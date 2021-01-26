@@ -2,6 +2,7 @@
 `HISNav` - Habitat-based Instance segmentation, Slam and Navigation Dataset
 
 **The dataset is available [here](https://drive.google.com/drive/folders/1p2Up5gtpREWQmbvPlzcPtPf_wYUiFjpY?usp=sharing).**
+**For your convenience, we provide the following trained [models](https://drive.google.com/drive/folders/1vDEjIpPfzzX6bn2foz4Tmj-cuzJQaYhy?usp=sharing) on Habitat.**
 
 `HISNav` is a dataset, which consists of various robot movements tracks, recorded in virtual environment Habitat. Tracks were built on 49 unique scenes from [Matterport3D](https://niessner.github.io/Matterport/) that present rooms with different styles. Each scene has no more than 5 trajectories with 3 different levels of noise in camera images and in actions.
 
