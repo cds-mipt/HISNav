@@ -14,6 +14,7 @@ YOLACT++ | 26ms | 0.2739 | [download](https://drive.google.com/file/d/1DcLyC4Urw
 MASK R-CNN(det2) | 31ms | 0.3483 | [download](https://drive.google.com/file/d/1NKdUJ4PnQjbDgcVa8DCsaRLLg-mzHQ51/view?usp=sharing)
 MASK R-CNN(mmdet) | 34ms | 0.3593 | [download](https://drive.google.com/file/d/1wiglYingWK64UGEx7e4ntXvEnA5SEggq/view?usp=sharing)
 
+## Data
 
 `HISNav` is a dataset, which consists of various robot movements tracks, recorded in virtual environment Habitat. Tracks were built on 49 unique scenes from [Matterport3D](https://niessner.github.io/Matterport/) that present rooms with different styles. Each scene has no more than 5 trajectories with 3 different levels of noise in camera images and in actions.
 
