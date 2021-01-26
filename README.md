@@ -4,7 +4,7 @@
 **The dataset is available [here](https://drive.google.com/drive/folders/1p2Up5gtpREWQmbvPlzcPtPf_wYUiFjpY?usp=sharing).**
 
 ## Models
-For your convenience, we provide the following trained models on COCO (more models are coming soon).
+For your convenience, we provide the following trained models on HISNav.
 
 Model | Testing time / im | mAP (IoU=0.5) | Link
 --- |:---:|:---:|:---:
